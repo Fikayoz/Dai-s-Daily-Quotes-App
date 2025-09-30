@@ -1,0 +1,2 @@
+- An app to generate motivational quotes daily. Built from scratch
+- Shoutout to https://www.youtube.com/@GreatStackDev
